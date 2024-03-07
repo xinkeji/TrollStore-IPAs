@@ -2,5 +2,21 @@
   "name": "swaggyP36000 IPA Library",
   "identifier": "xyz.hieuddo.ipalibrary",
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
-  "apps": []
+  "apps": [
+    {
+      "name": "Calendars5_5.27.8_iOS",
+      "bundleIdentifier": "com.readdle.Calendars5",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.Calendars5.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2024-03-07",
+          "size": 71773474,
+          "downloadURL": "https://github.com/xinkeji/TrollStore-IPAs/releases/download/Update/Calendars5_5.27.8_iOS.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    }
+  ]
 }
