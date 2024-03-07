@@ -109,8 +109,7 @@ def main(token):
                 "name": app_name,
                 "iconURL": f"https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/{bundle_id}.png",
                 "downloadURL": asset.browser_download_url,
-                "developerName": dev_name,
-                "description": desc,  # 这行是新增的，以存储描述信息
+                "developerName": 果粉圈-nav.g0f.cn 独家收录,
             })
 
     df.to_csv("bundleId.csv", index=False)
