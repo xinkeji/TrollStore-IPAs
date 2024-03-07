@@ -134,7 +134,7 @@ if __name__ == "__main__":
               'url': asset.browser_download_url,
               'description': dev_name,
            }
-            )
+            
 
     df.to_csv("bundleId.csv", index=False)
 
