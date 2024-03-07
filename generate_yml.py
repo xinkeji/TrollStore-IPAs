@@ -109,7 +109,8 @@ def main(token):
                 "name": app_name,
                 "iconURL": f"https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/{bundle_id}.png",
                 "downloadURL": asset.browser_download_url,
-                "developerName": 果粉圈独家收录,
+                "developerName": dev_name,
+                
             })
 
     df.to_csv("bundleId.csv", index=False)
