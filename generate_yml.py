@@ -94,7 +94,7 @@ if __name__ == "__main__":
     data["apps"] = []
 
     g = Github(token)
-    repo = g.get_repo("swaggyP36000/TrollStore-IPAs")
+    repo = g.get_repo("xinkeji/TrollStore-IPAs")
     releases = repo.get_releases()
 
     for release in releases:
@@ -128,18 +128,20 @@ if __name__ == "__main__":
                     desc = f"{raw_desc}\nLast updated: {raw_last_updated}\nStatus: {raw_status}"
                     dev_name = f"{row['Source/Maintainer'].values[0]}"
 
-           app_data = {
-              'title': app_name,
-              'logo': f'https://cdn.jsdelivr.net/gh/swaggyP36000/TrollStore-IPAs@main/icons/{bundle_id}.png',
-              'url': asset.browser_download_url,
-              'description': dev_name,
-           }
-            
+            data["apps"].append(
+                {
+                    "title": app_name,
+                    "iconURL": f"https://cdn.jsdelivr.net/gh/swaggyP36000/TrollStore-IPAs@main/icons/{bundle_id}.png",
+                    "url": asset.browser_download_url,
+                    "description": asset.browser_download_url,
+                    
+                }
+            )
 
     df.to_csv("bundleId.csv", index=False)
 
     with open("apps_esign.json", "w") as json_file:
         json.dump(data, json_file, indent=2)
 
-    with open("webstack.json", "w") as file:
+    with open("apps.json", "w") as file:
         json.dump(transform_object(data), file, indent=2)
