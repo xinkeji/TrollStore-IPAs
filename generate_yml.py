@@ -130,11 +130,10 @@ if __name__ == "__main__":
 
             data["apps"].append(
                 {
-                    "title": app_name,
+                    "name": app_name,
                     "iconURL": f"https://cdn.jsdelivr.net/gh/swaggyP36000/TrollStore-IPAs@main/icons/{bundle_id}.png",
-                    "url": asset.browser_download_url,
-                    "description": asset.browser_download_url,
-                    
+                    "downloadURL": asset.browser_download_url,
+                    "developerName": dev_name, 
                 }
             )
 
