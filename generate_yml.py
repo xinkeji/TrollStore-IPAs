@@ -140,5 +140,5 @@ if __name__ == "__main__":
     with open("apps_esign.json", "w") as json_file:
         json.dump(data, json_file, indent=2)
 
-    with open("apps.json", "w") as file:
+    with open("webstack.yml", "w") as file:
         json.dump(transform_object(data), file, indent=2)
