@@ -5,14 +5,14 @@
   "apps": [
     {
       "name": "Calendars5_5.27.8_iOS",
-      "bundleIdentifier": "com.readdle.Calendars5",
+      "bundleIdentifier": "unknown.bundle.identifier",
       "developerName": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.Calendars5.png",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.readdle.Calendars5.png",
       "versions": [
         {
           "version": "1.0",
-          "date": "2024-03-07",
-          "size": 71773474,
+          "date": "1970-01-01",
+          "size": 0,
           "downloadURL": "https://github.com/xinkeji/TrollStore-IPAs/releases/download/Update/Calendars5_5.27.8_iOS.ipa",
           "localizedDescription": ""
         }
