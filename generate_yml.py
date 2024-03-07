@@ -74,7 +74,7 @@ def main(token):
     data["apps"] = []
 
     g = Github(token)
-    repo = g.get_repo("xinkeji/TrollStore-IPAs")
+    repo = g.get_repo("swaggyP36000/TrollStore-IPAs")
     releases = repo.get_releases()
 
     for release in releases:
@@ -109,7 +109,7 @@ def main(token):
                 "name": app_name,
                 "iconURL": f"https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/{bundle_id}.png",
                 "downloadURL": asset.browser_download_url,
-                "developerName": 果粉圈-nav.g0f.cn 独家收录,
+                "developerName": 果粉圈独家收录,
             })
 
     df.to_csv("bundleId.csv", index=False)
