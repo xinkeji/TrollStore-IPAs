@@ -138,7 +138,7 @@ if __name__ == "__main__":
                     "downloadURL": asset.browser_download_url,
                     "developerName": dev_name,
                     "localizedDescription": desc,
-                    "iconURL": f"https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/{bundle_id}.png",
+                    "iconURL": f"https://cdn.jsdelivr.net/gh/swaggyP36000/TrollStore-IPAs@main/icons/{bundle_id}.png",
                 }
             )
 
