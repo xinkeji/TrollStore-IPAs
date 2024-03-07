@@ -94,7 +94,7 @@ if __name__ == "__main__":
     data["apps"] = []
 
     g = Github(token)
-    repo = g.get_repo("xinkeji/TrollStore-IPAs")
+    repo = g.get_repo("swaggyP36000/TrollStore-IPAs")
     releases = repo.get_releases()
 
     for release in releases:
@@ -129,17 +129,10 @@ if __name__ == "__main__":
                     dev_name = f"{row['Source/Maintainer'].values[0]}"
 
             data["apps"].append(
-                {
-                    "name": app_name,
-                    "bundleIdentifier": bundle_id,
-                    "version": version,
-                    "versionDate": date,
-                    "size": asset.size,
-                    "downloadURL": asset.browser_download_url,
-                    "developerName": dev_name,
-                    "localizedDescription": desc,
-                    "iconURL": f"https://cdn.jsdelivr.net/gh/swaggyP36000/TrollStore-IPAs@main/icons/{bundle_id}.png",
-                }
+                  - title:: app_name
+                    logo: https://cdn.jsdelivr.net/gh/swaggyP36000/TrollStore-IPAs@main/icons/{bundle_id}.png
+                    url: asset.browser_download_url
+                    description: dev_name
             )
 
     df.to_csv("bundleId.csv", index=False)
