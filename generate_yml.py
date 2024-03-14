@@ -109,7 +109,7 @@ def main(token):
                 "name": app_name,
                 "iconURL": f"https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/{bundle_id}.png",
                 "downloadURL": asset.browser_download_url,
-                "localizedDescription": desc,
+                "localizedDescription": 心科技圈导航规整整理,基本都是破解应用，自行安装体验,
                 
             })
 
