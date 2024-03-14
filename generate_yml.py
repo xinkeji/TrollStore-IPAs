@@ -23,7 +23,7 @@ def transform_object(original_object):
         version_date = app.get("versionDate", "1970-01-01")
         size = app.get("size", 0)
         download_url = app.get("downloadURL", "")
-        developer_name = app.get("developerName", "Unknown Developer")
+        developer_name = app.get("localizedDescription", "Unknown Developer")
         localized_description = app.get("localizedDescription", "")
         icon_url = app.get("iconURL", "")
 
@@ -31,7 +31,7 @@ def transform_object(original_object):
             app_map[name] = {
                 "name": name,
                 "bundleIdentifier": bundle_identifier,
-                "developerName": developer_name,
+                "localizedDescription": developer_name,
                 "iconURL": icon_url,
                 "versions": [],
             }
@@ -109,7 +109,7 @@ def main(token):
                 "name": app_name,
                 "iconURL": f"https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/{bundle_id}.png",
                 "downloadURL": asset.browser_download_url,
-                "developerName": dev_name,
+                "localizedDescription": desc,
                 
             })
 
