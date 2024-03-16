@@ -4,6 +4,1156 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "BearPro",
+      "bundleIdentifier": "unknown.bundle.identifier",
+      "localizedDescription": "Unknown Developer",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/net.shinyfrog.bear-iOS.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2024/BearPro-2.1.6.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-05-2024/BearPro-2.1.4.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/BearPro-2.1.3.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2024/BearPro-2.1.1.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/BearPro-2.1.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/BearPro-2.0.17.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/BearPro-2.0.15.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/BearPro-2.0.14.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/BearPro-1.9.7.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "DocumentsPlus",
+      "bundleIdentifier": "unknown.bundle.identifier",
+      "localizedDescription": "Unknown Developer",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.readdle.ReaddleDocsIPad.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2024/DocumentsPlus-8.10.5.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "Ignited",
+      "bundleIdentifier": "unknown.bundle.identifier",
+      "localizedDescription": "Unknown Developer",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.litritt.ignited.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/Ignited-1.9.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/Ignited-1.8.7.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2024/Ignited-1.8.6.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/Ignited-1.8.5.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/Ignited-1.8.4.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/Ignited-1.8.3.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-24-2023/Ignited-1.7.2.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/Ignited-1.7.1.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "InstagramNyx-322.1.1",
+      "bundleIdentifier": "unknown.bundle.identifier",
+      "localizedDescription": "Unknown Developer",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.burbn.instagram.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/InstagramNyx-322.1.1-1.2.2.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "iPoGo",
+      "bundleIdentifier": "unknown.bundle.identifier",
+      "localizedDescription": "Unknown Developer",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.nianticlabs.pokemongo.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/iPoGo-3.2.6.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/iPoGo-3.2.5.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2024/iPoGo-3.2.4.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/iPoGo-3.2.3.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/iPoGo-3.2.2.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2023/iPoGo-3.2.1.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/iPoGo-3.2.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/iPoGo-3.1.9.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/iPoGo-3.1.8.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-29-2023/iPoGo-3.1.7.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-17-2023/iPoGo-3.1.5.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/iPoGo-3.1.1.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/iPoGo-3.0.9.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/iPoGo-3.0.1.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/iPoGo-2.9.3.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/iPoGo-2.9.2.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/iPoGo-2.9.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/iPoGo-2.8.9.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2023/iPoGo-2.8.8.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-21-2023/iPoGo-2.8.6.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-11-2023/iPoGo-2.8.5.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/iPoGo-2.8.4.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2023/iPoGo-2.8.4.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-18-2023/iPoGo-2.8.3.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-05-2023/iPoGo-2.8.2.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2023/iPoGo-2.8.1.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2023/iPoGo-2.8.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2022/iPoGo-2.7.9.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2022/iPoGo-2.7.8.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/iPoGo-2.7.7.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/iPoGo-2.7.5.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/iPoGo.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "Streamer",
+      "bundleIdentifier": "unknown.bundle.identifier",
+      "localizedDescription": "Unknown Developer",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.streamer.ios.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/Streamer-1.2.37.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2024/Streamer-1.2.36.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-03-2024/Streamer-1.2.35.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/Streamer-1.2.34.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/Streamer-1.2.33.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2023/Streamer-1.2.32.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "Sudachi",
+      "bundleIdentifier": "unknown.bundle.identifier",
+      "localizedDescription": "Unknown Developer",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.antique.Sudachi.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/Sudachi-0.0.1.7.6.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2024/Sudachi-0.0.1.7.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "TrollRecorder-1.4.5",
+      "bundleIdentifier": "unknown.bundle.identifier",
+      "localizedDescription": "Unknown Developer",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/wiki.qaq.trapp.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/TrollRecorder-1.4.5-36.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "DLTikTok-33.8.0",
+      "bundleIdentifier": "unknown.bundle.identifier",
+      "localizedDescription": "Unknown Developer",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.zhiliaoapp.musically.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/DLTikTok-33.8.0-2.0.5.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "DLTwitter",
+      "bundleIdentifier": "unknown.bundle.identifier",
+      "localizedDescription": "Unknown Developer",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.atebits.Tweetie2.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/DLTwitter-10.32.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/DLTwitter-10.31.1.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2024/DLTwitter-10.25.1.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/DLTwitter-10.21.1.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/DLTwitter-10.16.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/DLTwitter-9.63.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/DLTwitter-9.58.1.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2023/DLTwitter-9.54.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2023/DLTwitter-9.51.1.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2023/DLTwitter-9.49.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2023/DLTwitter-9.47.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/DLTwitter-9.42.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2023/DLTwitter-9.41.1.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2022/DLTwitter-9.38.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "InstagramLRD",
+      "bundleIdentifier": "unknown.bundle.identifier",
+      "localizedDescription": "Unknown Developer",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.burbn.instagram.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/InstagramLRD-322.1.1.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/InstagramLRD-321.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-22-2024/InstagramLRD-318.0.7.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2024/InstagramLRD-316.1.8.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/InstagramLRD-312.0.1.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/InstagramLRD-311.0.2.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/InstagramLRD-310.0.4.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/InstagramLRD-309.1.1.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2022/InstagramLRD-250.0.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "InstaRocketBH-322.1.1",
+      "bundleIdentifier": "unknown.bundle.identifier",
+      "localizedDescription": "Unknown Developer",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.burbn.instagram.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/InstaRocketBH-322.1.1-3.8.24.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "InstaRocketCracked-322.0.1",
+      "bundleIdentifier": "unknown.bundle.identifier",
+      "localizedDescription": "Unknown Developer",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.burbn.instagram.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/InstaRocketCracked-322.0.1-3.8.24.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/InstaRocketCracked-322.0.1-3.8.23.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "TikTokDark",
+      "bundleIdentifier": "unknown.bundle.identifier",
+      "localizedDescription": "Unknown Developer",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.zhiliaoapp.musically.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/TikTokDark-33.8.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/TikTokDark-33.7.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-22-2024/TikTokDark-33.4.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2024/TikTokDark-33.2.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/TikTokDark-32.9.1.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/TikTokDark-32.6.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/TikTokDark-32.5.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/TikTokDark-32.4.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/TikTokDark-32.1.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-19-2023/TikTokDark-30.8.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2023/TikTokDark-30.7.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2023/TikTokDark-30.6.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/TikTokDark-30.5.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/TikTokDark-30.4.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/TikTokDark-30.3.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-05-2023/TikTokDark-30.2.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/TikTokDark-30.1.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/TikTokDark-30.0.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/TikTokDark-29.7.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2023/TikTokDark-29.6.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/TikTokDark-29.5.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/TikTokDark-29.3.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2023/TikTokDark-29.2.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-20-2023/TikTokDark-29.1.1.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2023/TikTokDark-29.1.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2023/TikTokDark-29.0.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2023/TikTokDark-28.9.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2023/TikTokDark-28.4.1.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2023/TikTokDark-28.4.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/TikTokDark-28.2.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/TikTokDark-28.1.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-28-2023/TikTokDark-27.9.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2023/TikTokDark-27.7.1.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/TikTokDark-27.7.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-07-2023/TikTokDark-27.6.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-05-2023/TikTokDark-27.6.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/TikTokDark-27.4.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2022/TikTokDark-27.3.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/TikTokDark-27.2.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/TikTokDark-27.1.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/TikTokDark-27.0.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TikTokDark.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "TikTokLRD-3.0",
+      "bundleIdentifier": "unknown.bundle.identifier",
+      "localizedDescription": "Unknown Developer",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.zhiliaoapp.musically.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/TikTokLRD-3.0-33.8.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/TikTokLRD-3.0-33.7.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-22-2024/TikTokLRD-3.0-33.4.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2024/TikTokLRD-3.0-33.2.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/TikTokLRD-3.0-32.9.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/TikTokLRD-3.0-32.6.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/TikTokLRD-3.0-32.5.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/TikTokLRD-3.0-32.4.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/TikTokLRD-3.0-32.1.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/TikTokLRD-3.0-31.4.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/TikTokLRD-3.0-31.0.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-19-2023/TikTokLRD-3.0-30.8.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2023/TikTokLRD-3.0-30.7.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/TikTokLRD-3.0-30.6.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2023/TikTokLRD-3.0-30.5.0.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/TikTokLRD-3.0-30.4.0.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "TrollRecorder-1.4.1",
+      "bundleIdentifier": "unknown.bundle.identifier",
+      "localizedDescription": "Unknown Developer",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/wiki.qaq.trapp.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/TrollRecorder-1.4.1-30.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
       "name": "BeRealBea-1.3.6",
       "bundleIdentifier": "unknown.bundle.identifier",
       "localizedDescription": "Unknown Developer",
@@ -94,21 +1244,6 @@
           "date": "1970-01-01",
           "size": 0,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/InstagramRocket-322.0.1-3.8.23.ipa",
-          "localizedDescription": ""
-        }
-      ]
-    },
-    {
-      "name": "InstaRocketCracked-322.0.1",
-      "bundleIdentifier": "unknown.bundle.identifier",
-      "localizedDescription": "Unknown Developer",
-      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.burbn.instagram.png",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/InstaRocketCracked-322.0.1-3.8.23.ipa",
           "localizedDescription": ""
         }
       ]
@@ -565,21 +1700,6 @@
       ]
     },
     {
-      "name": "StrengthTrainingPro",
-      "bundleIdentifier": "unknown.bundle.identifier",
-      "localizedDescription": "Unknown Developer",
-      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.musclemotion.strengthnative.png",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-09-2024/StrengthTrainingPro-2.7.33.ipa",
-          "localizedDescription": ""
-        }
-      ]
-    },
-    {
       "name": "BHTikTokPlus-33.7.0",
       "bundleIdentifier": "unknown.bundle.identifier",
       "localizedDescription": "Unknown Developer",
@@ -620,105 +1740,6 @@
           "date": "1970-01-01",
           "size": 0,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/DLTikTok-33.7.0-2.0.5.ipa",
-          "localizedDescription": ""
-        }
-      ]
-    },
-    {
-      "name": "DLTwitter",
-      "bundleIdentifier": "unknown.bundle.identifier",
-      "localizedDescription": "Unknown Developer",
-      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.atebits.Tweetie2.png",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/DLTwitter-10.31.1.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2024/DLTwitter-10.25.1.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/DLTwitter-10.21.1.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/DLTwitter-10.16.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/DLTwitter-9.63.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/DLTwitter-9.58.1.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2023/DLTwitter-9.54.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2023/DLTwitter-9.51.1.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2023/DLTwitter-9.49.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2023/DLTwitter-9.47.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/DLTwitter-9.42.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-25-2023/DLTwitter-9.41.1.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2022/DLTwitter-9.38.ipa",
           "localizedDescription": ""
         }
       ]
@@ -1096,70 +2117,6 @@
       ]
     },
     {
-      "name": "InstagramLRD",
-      "bundleIdentifier": "unknown.bundle.identifier",
-      "localizedDescription": "Unknown Developer",
-      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.burbn.instagram.png",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/InstagramLRD-321.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-22-2024/InstagramLRD-318.0.7.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2024/InstagramLRD-316.1.8.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/InstagramLRD-312.0.1.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/InstagramLRD-311.0.2.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/InstagramLRD-310.0.4.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/InstagramLRD-309.1.1.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2022/InstagramLRD-250.0.ipa",
-          "localizedDescription": ""
-        }
-      ]
-    },
-    {
       "name": "InstagramNyx-321.0",
       "bundleIdentifier": "unknown.bundle.identifier",
       "localizedDescription": "Unknown Developer",
@@ -1170,414 +2127,6 @@
           "date": "1970-01-01",
           "size": 0,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/InstagramNyx-321.0-1.2.2b2.ipa",
-          "localizedDescription": ""
-        }
-      ]
-    },
-    {
-      "name": "TikTokDark",
-      "bundleIdentifier": "unknown.bundle.identifier",
-      "localizedDescription": "Unknown Developer",
-      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.zhiliaoapp.musically.png",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/TikTokDark-33.7.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-22-2024/TikTokDark-33.4.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2024/TikTokDark-33.2.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/TikTokDark-32.9.1.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/TikTokDark-32.6.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/TikTokDark-32.5.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/TikTokDark-32.4.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/TikTokDark-32.1.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-19-2023/TikTokDark-30.8.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2023/TikTokDark-30.7.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2023/TikTokDark-30.6.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/TikTokDark-30.5.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/TikTokDark-30.4.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/TikTokDark-30.3.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-05-2023/TikTokDark-30.2.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/TikTokDark-30.1.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/TikTokDark-30.0.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/TikTokDark-29.7.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2023/TikTokDark-29.6.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/TikTokDark-29.5.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/TikTokDark-29.3.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2023/TikTokDark-29.2.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-20-2023/TikTokDark-29.1.1.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2023/TikTokDark-29.1.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2023/TikTokDark-29.0.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2023/TikTokDark-28.9.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2023/TikTokDark-28.4.1.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2023/TikTokDark-28.4.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/TikTokDark-28.2.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/TikTokDark-28.1.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-28-2023/TikTokDark-27.9.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2023/TikTokDark-27.7.1.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/TikTokDark-27.7.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-07-2023/TikTokDark-27.6.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-05-2023/TikTokDark-27.6.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/TikTokDark-27.4.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2022/TikTokDark-27.3.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/TikTokDark-27.2.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/TikTokDark-27.1.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/TikTokDark-27.0.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TikTokDark.ipa",
-          "localizedDescription": ""
-        }
-      ]
-    },
-    {
-      "name": "TikTokLRD-3.0",
-      "bundleIdentifier": "unknown.bundle.identifier",
-      "localizedDescription": "Unknown Developer",
-      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.zhiliaoapp.musically.png",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/TikTokLRD-3.0-33.7.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-22-2024/TikTokLRD-3.0-33.4.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2024/TikTokLRD-3.0-33.2.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/TikTokLRD-3.0-32.9.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/TikTokLRD-3.0-32.6.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/TikTokLRD-3.0-32.5.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/TikTokLRD-3.0-32.4.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/TikTokLRD-3.0-32.1.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/TikTokLRD-3.0-31.4.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/TikTokLRD-3.0-31.0.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-19-2023/TikTokLRD-3.0-30.8.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2023/TikTokLRD-3.0-30.7.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-03-2023/TikTokLRD-3.0-30.6.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2023/TikTokLRD-3.0-30.5.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/TikTokLRD-3.0-30.4.0.ipa",
           "localizedDescription": ""
         }
       ]
@@ -2586,70 +3135,6 @@
       ]
     },
     {
-      "name": "BearPro",
-      "bundleIdentifier": "unknown.bundle.identifier",
-      "localizedDescription": "Unknown Developer",
-      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/net.shinyfrog.bear-iOS.png",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-05-2024/BearPro-2.1.4.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/BearPro-2.1.3.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2024/BearPro-2.1.1.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/BearPro-2.1.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/BearPro-2.0.17.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/BearPro-2.0.15.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/BearPro-2.0.14.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/BearPro-1.9.7.ipa",
-          "localizedDescription": ""
-        }
-      ]
-    },
-    {
       "name": "BHX-10.31",
       "bundleIdentifier": "unknown.bundle.identifier",
       "localizedDescription": "Unknown Developer",
@@ -3360,231 +3845,6 @@
       ]
     },
     {
-      "name": "iPoGo",
-      "bundleIdentifier": "unknown.bundle.identifier",
-      "localizedDescription": "Unknown Developer",
-      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.nianticlabs.pokemongo.png",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/iPoGo-3.2.5.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2024/iPoGo-3.2.4.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/iPoGo-3.2.3.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/iPoGo-3.2.2.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2023/iPoGo-3.2.1.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/iPoGo-3.2.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/iPoGo-3.1.9.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/iPoGo-3.1.8.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-29-2023/iPoGo-3.1.7.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-17-2023/iPoGo-3.1.5.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-23-2023/iPoGo-3.1.1.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-06-2023/iPoGo-3.0.9.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/iPoGo-3.0.1.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/iPoGo-2.9.3.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/iPoGo-2.9.2.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/iPoGo-2.9.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/iPoGo-2.8.9.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-16-2023/iPoGo-2.8.8.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-21-2023/iPoGo-2.8.6.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-11-2023/iPoGo-2.8.5.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/iPoGo-2.8.4.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2023/iPoGo-2.8.4.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-18-2023/iPoGo-2.8.3.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-05-2023/iPoGo-2.8.2.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2023/iPoGo-2.8.1.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-06-2023/iPoGo-2.8.0.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2022/iPoGo-2.7.9.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2022/iPoGo-2.7.8.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/iPoGo-2.7.7.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/iPoGo-2.7.5.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/iPoGo.ipa",
-          "localizedDescription": ""
-        }
-      ]
-    },
-    {
       "name": "MotionleapPro",
       "bundleIdentifier": "unknown.bundle.identifier",
       "localizedDescription": "Unknown Developer",
@@ -4220,49 +4480,6 @@
           "date": "1970-01-01",
           "size": 0,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2024/Snapchatiota-12.75.0.37-5.2.1.ipa",
-          "localizedDescription": ""
-        }
-      ]
-    },
-    {
-      "name": "Streamer",
-      "bundleIdentifier": "unknown.bundle.identifier",
-      "localizedDescription": "Unknown Developer",
-      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.streamer.ios.png",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2024/Streamer-1.2.36.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-03-2024/Streamer-1.2.35.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/Streamer-1.2.34.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/Streamer-1.2.33.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2023/Streamer-1.2.32.ipa",
           "localizedDescription": ""
         }
       ]
@@ -5308,63 +5525,6 @@
           "date": "1970-01-01",
           "size": 0,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Aidoku.ipa",
-          "localizedDescription": ""
-        }
-      ]
-    },
-    {
-      "name": "Ignited",
-      "bundleIdentifier": "unknown.bundle.identifier",
-      "localizedDescription": "Unknown Developer",
-      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.litritt.ignited.png",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/Ignited-1.8.7.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2024/Ignited-1.8.6.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/Ignited-1.8.5.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/Ignited-1.8.4.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/Ignited-1.8.3.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-24-2023/Ignited-1.7.2.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/Ignited-1.7.1.ipa",
           "localizedDescription": ""
         }
       ]
@@ -8472,21 +8632,6 @@
           "date": "1970-01-01",
           "size": 0,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2024/Paste-4.0.1.ipa",
-          "localizedDescription": ""
-        }
-      ]
-    },
-    {
-      "name": "Sudachi",
-      "bundleIdentifier": "unknown.bundle.identifier",
-      "localizedDescription": "Unknown Developer",
-      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.antique.Sudachi.png",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2024/Sudachi-0.0.1.7.ipa",
           "localizedDescription": ""
         }
       ]
