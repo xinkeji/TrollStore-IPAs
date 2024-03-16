@@ -1,0 +1,42 @@
+name: Inject dylib into IPA
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: macOS-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Install optool
+      run: |
+        git clone https://github.com/alexzielenski/optool.git
+        cd optool
+        xcodebuild -project optool.xcodeproj -target optool -configuration Release install
+        mv /tmp/optool /usr/local/bin/
+
+    - name: Unzip IPA
+      run: |
+        unzip app.ipa -d app
+
+    - name: Inject dylib
+      run: |
+        optool install -c load -p "@executable_path/mylib.dylib" -t app/Payload/app.app/app
+        cp mylib.dylib app/Payload/app.app/
+
+    - name: Resign app
+      run: |
+        codesign -fs "iPhone Developer" app/Payload/app.app
+
+    - name: Repackage IPA
+      run: |
+        cd app
+        zip -r ../app.ipa Payload/
+
+    - name: Upload IPA
+      uses: actions/upload-artifact@v2
+      with:
+        name: app
+        path: app.ipa
