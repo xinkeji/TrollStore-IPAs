@@ -4,6 +4,48 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "FlacboxPro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.leshko.flap.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/FlacboxPro-5.3.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "Flycast",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.flyinghead.Flycast.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/Flycast-2.3.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "InstaRocketBH-322.1.1",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.burbn.instagram.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/InstaRocketBH-322.1.1-3.8.24.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "Notability",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.gingerlabs.Notability.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/Notability-14.7.6.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "TrollRecorder-1.4.7",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/wiki.qaq.trapp.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/TrollRecorder-1.4.7-46.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "TrollSpeed",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/ch.xxtou.hudapp.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/TrollSpeed-1.11.9.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "Watching",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.34306.watching.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-17-2024/Watching-1.0.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
       "name": "BearPro",
       "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/net.shinyfrog.bear-iOS.png",
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2024/BearPro-2.1.6.ipa",
@@ -67,12 +109,6 @@
       "name": "InstagramLRD",
       "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.burbn.instagram.png",
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/InstagramLRD-322.1.1.ipa",
-      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
-    },
-    {
-      "name": "InstaRocketBH-322.1.1",
-      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.burbn.instagram.png",
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/InstaRocketBH-322.1.1-3.8.24.ipa",
       "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
     },
     {
