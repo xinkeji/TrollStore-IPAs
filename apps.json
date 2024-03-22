@@ -4,6 +4,43 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "BoostcampPro",
+      "bundleIdentifier": "unknown.bundle.identifier",
+      "localizedDescription": "Unknown Developer",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.bpmhealth.boostfitness.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-21-2024/BoostcampPro-2.0.16.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "SwipewipePremium",
+      "bundleIdentifier": "unknown.bundle.identifier",
+      "localizedDescription": "Unknown Developer",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.aoklab.fewerphotos.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-21-2024/SwipewipePremium-2.03.00.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0",
+          "date": "1970-01-01",
+          "size": 0,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-02-2024/SwipewipePremium-2.01.00.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
       "name": "AlohaBrowserPremium",
       "bundleIdentifier": "unknown.bundle.identifier",
       "localizedDescription": "Unknown Developer",
@@ -4435,21 +4472,6 @@
           "date": "1970-01-01",
           "size": 0,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-02-2024/Snapchatiota-12.75.1-5.2.2.ipa",
-          "localizedDescription": ""
-        }
-      ]
-    },
-    {
-      "name": "SwipewipePremium",
-      "bundleIdentifier": "unknown.bundle.identifier",
-      "localizedDescription": "Unknown Developer",
-      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.aoklab.fewerphotos.png",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "1970-01-01",
-          "size": 0,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-02-2024/SwipewipePremium-2.01.00.ipa",
           "localizedDescription": ""
         }
       ]
