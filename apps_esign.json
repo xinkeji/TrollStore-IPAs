@@ -4,6 +4,804 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "BuddyPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.iPwners.Plonkan.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-11-2024/BuddyPremium-11.40.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "FacebookWolf",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.facebook.Facebook.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-11-2024/FacebookWolf-459.0.5.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "TrollRecorder-1.6.6",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/wiki.qaq.trapp.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-11-2024/TrollRecorder-1.6.6-93.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "BHX-10.36",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.atebits.Tweetie2.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2024/BHX-10.36-4.3.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "GoodReaderPro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.goodiware.grpro.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2024/GoodReaderPro-5.18.1196.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "InstagramNyx-325.0.3",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.burbn.instagram.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2024/InstagramNyx-325.0.3-1.2.6b.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "PhotoshopExpress",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.adobe.PSMobile.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-10-2024/PhotoshopExpress-24.14.1.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "BeRealBea-1.3.6",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/AlexisBarreyat.BeReal.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2024/BeRealBea-1.3.6-2.9.0.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "FacetunePro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.lightricks.Facetune2.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2024/FacetunePro-3.50.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "InfusePro-7.7.3",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.firecore.infuse.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2024/InfusePro-7.7.3-1.1.5.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "TorBrowserPlusPlus",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/ch.b-eng.tor.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2024/TorBrowserPlusPlus-3.4.17.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "TrollInstallerX",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.Alfie.TrollInstallerX.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2024/TrollInstallerX-1.0.2.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "TwitchPlus-19.0",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/tv.twitch.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2024/TwitchPlus-19.0-0.1.1.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "VidsAIPro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/viral.vision.vids.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2024/VidsAIPro-1.55.0.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "WaterMinderPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.waterminder.waterminder.watchkitapp.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-09-2024/WaterMinderPremium-6.4.16.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "AppLockPro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.lilucat.applock.us.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2024/AppLockPro-3.0.2.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "iPoGo",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.nianticlabs.pokemongo.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2024/iPoGo-3.3.0.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "Mangayomi",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.kodjodevf.mangayomi.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2024/Mangayomi-0.2.2.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "StoicPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.mlobodzinski.Stoic.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2024/StoicPremium-2024.14.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "TwitchPlus-18.9",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/tv.twitch.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2024/TwitchPlus-18.9-0.1.1.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "APTVPro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.kimen.aptvpro.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/APTVPro-1.3.2.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "Goodnotes6",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.goodnotesapp.x.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/Goodnotes6-6.3.14.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "Kodi",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/org.xbmc.kodi-ios.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/Kodi-21.0.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "TrollRecorder-1.6.4",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/wiki.qaq.trapp.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/TrollRecorder-1.6.4-89.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "UsagePro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.olegst.usage.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/UsagePro-4.20.5.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "VidsAIPro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/viral.vision.vids.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/VidsAIPro-1.54.0.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "WaterMinderPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.waterminder.waterminder.watchkitapp.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/WaterMinderPremium-6.4.15.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "WindyappPro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/co.windyapp.Windy.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2024/WindyappPro-13.4.1.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "AudiomackPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.audiomack.iphone.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/AudiomackPremium-6.29.1.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "InstagramNyx-325.0.3",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.burbn.instagram.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/InstagramNyx-325.0.3-1.2.4.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "MyFitnessPalPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.myfitnesspal.mfp.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/MyFitnessPalPremium-24.13.0.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "NGLPro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/fun.ask.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/NGLPro-6.1.84.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "Notability",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.gingerlabs.Notability.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/Notability-14.7.10.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "PicsArtPlusPlus",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.picsart.studio.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/PicsArtPlusPlus-24.6.2.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "PolishPro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.photoeditor.polish.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/PolishPro-1.7.1.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "Rosiecord",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.hammerandchisel.discord.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/Rosiecord-223.0.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "TarteelPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.iqraapp.Iqra.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/TarteelPremium-5.39.7.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "Things3",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.culturedcode.ThingsiPhone.WatchApp.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-06-2024/Things3-3.20.7.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "InstagramLRD",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.burbn.instagram.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2024/InstagramLRD-325.0.3.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "InstaRocketCracked-325.0.3",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.burbn.instagram.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2024/InstaRocketCracked-325.0.3-3.8.24.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "PicCollageVIP",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.cardinalblue.PicCollage.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2024/PicCollageVIP-8.34.2.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "TrollRecorder-1.5.12",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/wiki.qaq.trapp.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2024/TrollRecorder-1.5.12-82.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "BHTikTokPlus-34.1.0",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.zhiliaoapp.musically.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-04-2024/BHTikTokPlus-34.1.0-2.3.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "FacebookWolf",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.facebook.Facebook.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-04-2024/FacebookWolf-458.0.2.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "OutsidePro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/so.outside.app.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-04-2024/OutsidePro-0.74.0.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "RedditPlus",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.reddit.Reddit.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-04-2024/RedditPlus-2024.13.0.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "TikTokDark",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.zhiliaoapp.musically.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-04-2024/TikTokDark-34.1.0.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "TikTokLRD-3.0",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.zhiliaoapp.musically.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-04-2024/TikTokLRD-3.0-34.1.0.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "BearPro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/net.shinyfrog.bear-iOS.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-03-2024/BearPro-2.1.8.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "CodeRunnerPro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.markodevcic.code-runner.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-03-2024/CodeRunnerPro-1.3.6.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "GoogleNews",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.google.GoogleDigitalEditions.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-03-2024/GoogleNews-5.91.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "MeituPlusPlus",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.meitu.mtxx.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-03-2024/MeituPlusPlus-10.7.0.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "MemrisePremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.memrise.ios.memrisecompanion.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-03-2024/MemrisePremium-2024.3.28.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "BeRealBea-1.3.6",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/AlexisBarreyat.BeReal.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2024/BeRealBea-1.3.6-2.7.0.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "InstoriesPro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/ylee.studio.instories.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2024/InstoriesPro-5.53.0.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "Spotilife",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.spotify.client.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2024/Spotilife-8.9.26.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "TrollRecorder-1.5.9",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/wiki.qaq.trapp.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2024/TrollRecorder-1.5.9-79.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "Watusi3-24.6.78-1.2.29",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/net.whatsapp.WhatsApp.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2024/Watusi3-24.6.78-1.2.29-3.4.4.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "ChargeLimiter",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/chaoge.ChargeLimiter.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2024/ChargeLimiter-1.5.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "LightroomPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.adobe.lrmobilephone.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2024/LightroomPremium-9.2.1.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "OpalPro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.withopal.opal.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2024/OpalPro-3.56.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "PhotoshopExpress",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.adobe.PSMobile.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-01-2024/PhotoshopExpress-24.12.1.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "AIChatbotGeniePro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/co.appnation.geniechat.watchapp.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/AIChatbotGeniePro-6.1.2.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "AIChatGP",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.chatgtp.gpt-3.Chat-GPT.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/AIChatGP-2.256.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "AIChatSmithPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/co.vulcanlabs.moodtracker.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/AIChatSmithPremium-6.8.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "BHTikTokPlus-34.0.0",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.zhiliaoapp.musically.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/BHTikTokPlus-34.0.0-2.3.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "FacebookWolf",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.facebook.Facebook.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/FacebookWolf-457.0.2.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "HomeWorkoutPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.abishkking.maleworkout.watchkitapp.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/HomeWorkoutPremium-1.23.1.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "LoopsiePro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.gamelounge.loopsie.ios.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/LoopsiePro-8.9.2.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "Mangayomi",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.kodjodevf.mangayomi.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/Mangayomi-0.2.0.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "PicAnswerPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.techconsolidated.photosolve.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/PicAnswerPremium-1.33.1.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "SpeedTestPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.ookla.speedtest.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/SpeedTestPremium-5.3.1.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "VSCOPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/co.visualsupply.cam.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/VSCOPremium-366.0.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "ElectricalCalculationsPro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/it.Ettore.Electrical-Calculations-FREE.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-30-2024/ElectricalCalculationsPro-6.3.0.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "RadarbotPro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.iteration-mobile.radarbot-free-ww.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-30-2024/RadarbotPro-9.14.6.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "TwitchPlus-18.8.2",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/tv.twitch.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-30-2024/TwitchPlus-18.8.2-0.1.1.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "WindyappPro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/co.windyapp.Windy.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-30-2024/WindyappPro-13.3.0.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "Ignited",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.litritt.ignited.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-29-2024/Ignited-1.10.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "ImpulsePro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/gen.tech.impulse.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-29-2024/ImpulsePro-1.30.12.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "NGLPro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/fun.ask.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-29-2024/NGLPro-6.1.82.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "NightSkyPlus",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.icandiapps.nightsky.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-29-2024/NightSkyPlus-12.3.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "TrollRecorder-1.5.5",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/wiki.qaq.trapp.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-29-2024/TrollRecorder-1.5.5-72.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "AdobeAcrobatReaderPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.adobe.Adobe-Reader.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/AdobeAcrobatReaderPremium-24.02.02.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "DLTikTok-33.9.1",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.zhiliaoapp.musically.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/DLTikTok-33.9.1-2.0.5.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "FacetunePro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.lightricks.Facetune2.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/FacetunePro-3.49.2.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "InstagramLRD",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.burbn.instagram.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/InstagramLRD-324.0.4.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "PicsArtPlusPlus",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.picsart.studio.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/PicsArtPlusPlus-24.5.1.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "TikTokDark",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.zhiliaoapp.musically.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/TikTokDark-33.9.1.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "TikTokLRD-3.0",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.zhiliaoapp.musically.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/TikTokLRD-3.0-33.9.1.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "TrollRecorder-1.5.4",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/wiki.qaq.trapp.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/TrollRecorder-1.5.4-70.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "AlohaBrowserPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.alohabrowser.alohabrowser.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/AlohaBrowserPremium-5.6.1.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "BeautyPlusPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.commsource.BeautyPlus.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/BeautyPlusPremium-7.7.071.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "EnhanceFoxPro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.risingcabbage.enhancefox.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/EnhanceFoxPro-7.2.1.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "Folium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.antique.Folium.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/Folium-1.1.4Cytrus.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "Folium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.antique.Folium.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/Folium-1.1.4Sudachi.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "Opener",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.tijo.opener.Opener.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/Opener-1.12.6.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "PixelWeather",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.woo-interactive.PixelWeather.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/PixelWeather-7.0.3.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "ScannerProPlus",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.readdle.Scanner.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/ScannerProPlus-8.17.3.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "SparkPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.readdle.smartemail.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/SparkPremium-3.9.2.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "TorBrowserPlusPlus",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/ch.b-eng.tor.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/TorBrowserPlusPlus-3.4.16.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "TruecallerPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.truesoftware.TrueCallerOther.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/TruecallerPremium-12.86.5.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "VPNSatoshi",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.vpnsatoshi.vpnsatoshiapp.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/VPNSatoshi-2.20.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "WallcraftPro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.wallpaperscraft.wallpapers.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/WallcraftPro-3.14.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "YukaPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/yuca.scanner.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/YukaPremium-4.35.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "BHTikTokPlus-33.9.1",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.zhiliaoapp.musically.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2024/BHTikTokPlus-33.9.1-2.3.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "CanYouJB",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.CanYouJB.SamoXcZ.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2024/CanYouJB-3.0.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "FacebookWolf",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.facebook.Facebook.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2024/FacebookWolf-456.0.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "InShotPro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.camerasideas.InstaShot.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2024/InShotPro-1.76.3.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "InstagramNyx-324.0.4",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.burbn.instagram.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2024/InstagramNyx-324.0.4-1.2.4b.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "Watusi3-24.6.77-1.2.27",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/net.whatsapp.WhatsApp.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2024/Watusi3-24.6.77-1.2.27-3.4.4.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "BHX-10.34",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.atebits.Tweetie2.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-25-2024/BHX-10.34-4.3.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "DocumentsPlus",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.readdle.ReaddleDocsIPad.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-25-2024/DocumentsPlus-8.10.7.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "InstagramNyx-324.0.4",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.burbn.instagram.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-25-2024/InstagramNyx-324.0.4-1.2.2.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "InstaRocketBH-324.0.4-3.8.24",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.burbn.instagram.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-25-2024/InstaRocketBH-324.0.4-3.8.24-0.2.2.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "InstaRocketCracked-324.0.4",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.burbn.instagram.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-25-2024/InstaRocketCracked-324.0.4-3.8.24.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "MyFitnessPalPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.myfitnesspal.mfp.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-25-2024/MyFitnessPalPremium-24.11.0.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "ObjectRemoval",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.skysoft.removalfree.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-24-2024/ObjectRemoval-4.3.2.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "PhotoleapPro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.lightricks.Enlight-Editor.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-24-2024/PhotoleapPro-2.71.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "TarteelPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.iqraapp.Iqra.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-24-2024/TarteelPremium-5.39.5.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "AIChatSmithPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/co.vulcanlabs.moodtracker.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/AIChatSmithPremium-6.7.1.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "AlarmyPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/droom.sleepIfUCanFree.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/AlarmyPremium-24.15.0.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "CamScannerPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.intsig.CamScannerLite.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/CamScannerPremium-6.61.5.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "InstagramNyx-323.0.3",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.burbn.instagram.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/InstagramNyx-323.0.3-1.2.4b.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "iTranslatePro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.outerspaceapps.itranslate.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/iTranslatePro-17.3.4.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "LocketWidgetGold",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.locket.Locket.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/LocketWidgetGold-1.67.0.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "MuslimProPlus",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.bitsmedia.muslimpro.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/MuslimProPlus-15.2.1.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "Otraku-1.2.8+2",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.otraku.app.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/Otraku-1.2.8%2B2-ios15.0%2B.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "Otraku-1.2.8+2",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.otraku.app.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/Otraku-1.2.8%2B2-ios16.6%2B.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "QuakeFeedPremium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.artisanglobal.quakefeed.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/QuakeFeedPremium-6.4.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "WindyappPro",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/co.windyapp.Windy.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2024/WindyappPro-13.1.4.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "Folium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.antique.Folium.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-22-2024/Folium-1.1.2Sudachi.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "Folium",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.antique.Folium.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-22-2024/Folium-1.1.3Cytrus.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
+      "name": "iPoGo",
+      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.nianticlabs.pokemongo.png",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-22-2024/iPoGo-3.2.9.ipa",
+      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
+    },
+    {
       "name": "BoostcampPro",
       "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.bpmhealth.boostfitness.png",
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-21-2024/BoostcampPro-2.0.16.ipa",
@@ -2218,12 +3016,6 @@
       "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
     },
     {
-      "name": "QuizletPlus",
-      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.quizlet.quizlet.png",
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/QuizletPlus-8.19.ipa",
-      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
-    },
-    {
       "name": "TwitchPlus-17.8",
       "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/tv.twitch.png",
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/TwitchPlus-17.8-0.1.0.ipa",
@@ -3076,12 +3868,6 @@
       "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
     },
     {
-      "name": "QuizletPlus",
-      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.quizlet.quizlet.png",
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/QuizletPlus-8.17.ipa",
-      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
-    },
-    {
       "name": "TikTokDark",
       "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.zhiliaoapp.musically.png",
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/TikTokDark-32.6.0.ipa",
@@ -3235,12 +4021,6 @@
       "name": "Mangayomi",
       "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.kodjodevf.mangayomi.png",
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2023/Mangayomi-0.1.4.ipa",
-      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
-    },
-    {
-      "name": "QuizletPlus",
-      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.quizlet.quizlet.png",
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2023/QuizletPlus-8.16.ipa",
       "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
     },
     {
@@ -3544,12 +4324,6 @@
       "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
     },
     {
-      "name": "QuizletPlus",
-      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.quizlet.quizlet.png",
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/QuizletPlus-8.15.ipa",
-      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
-    },
-    {
       "name": "TempoPro",
       "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.quvideo.VISO.png",
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-08-2023/TempoPro-4.47.0.ipa",
@@ -3835,12 +4609,6 @@
       "name": "PolishPro",
       "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.photoeditor.polish.png",
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/PolishPro-1.6.3.ipa",
-      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
-    },
-    {
-      "name": "QuizletPlus",
-      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.quizlet.quizlet.png",
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/QuizletPlus-8.14.ipa",
       "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
     },
     {
@@ -4249,12 +5017,6 @@
       "name": "FacebookWolf",
       "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.facebook.Facebook.png",
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-10-2023/FacebookWolf-440.0.ipa",
-      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
-    },
-    {
-      "name": "QuizletPlus",
-      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.quizlet.quizlet.png",
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-10-2023/QuizletPlus-8.12.ipa",
       "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
     },
     {
@@ -4678,12 +5440,6 @@
       "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
     },
     {
-      "name": "QuizletPlus",
-      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.quizlet.quizlet.png",
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/QuizletPlus-8.8.ipa",
-      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
-    },
-    {
       "name": "Snapchatiota-12.56",
       "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.toyopagroup.picaboo.png",
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/Snapchatiota-12.56-4.1.ipa",
@@ -4771,12 +5527,6 @@
       "name": "CarrotWeatherUltra",
       "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.grailr.CARROTweather.png",
       "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/CarrotWeatherUltra-5.12.5.ipa",
-      "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
-    },
-    {
-      "name": "QuizletPlus",
-      "iconURL": "https://cdn.jsdelivr.net/gh/xinkeji/TrollStore-IPAs@main/icons/com.quizlet.quizlet.png",
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/QuizletPlus-8.6.ipa",
       "description": "\u5fc3\u79d1\u6280\u5708\u5bfc\u822a\u89c4\u6574\u6574\u7406,\u57fa\u672c\u90fd\u662f\u7834\u89e3\u5e94\u7528\uff0c\u81ea\u884c\u5b89\u88c5\u4f53\u9a8c"
     },
     {
